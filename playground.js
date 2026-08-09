@@ -1,3 +1,5 @@
 let nama ="Nama Saya Ihrom Wahyuni";
+let umur ="24";
 
-console.console.log(nama);
+console.log(nama);
+console.log("Umur saya adalah " + umur + " tahun");
